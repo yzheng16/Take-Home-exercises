@@ -1,5 +1,13 @@
 # Take-Home-exercises
 Yi Zheng
+
+1. Commits History/Changes  F
+1. Sync (push/pull) with Origin   D
+1. Alterations of committed item  E
+1. General Operational Tools for Maintenance  B
+1. Change branch  C
+1. Current (selection of) repository A
+
 * Under which menu item is the Show in Explorer option. ____________repository________________
 * Under which menu item can you Add or Clone repositories. __________file__________________
 * Under which menu item can you open your Command Prompt. ___________repository_________________
